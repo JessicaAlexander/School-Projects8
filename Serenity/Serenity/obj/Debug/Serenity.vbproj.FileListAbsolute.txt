@@ -1,0 +1,12 @@
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.vbprojAssemblyReference.cache
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.frmMain.resources
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.Resources.resources
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.vbproj.GenerateResource.cache
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.vbproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\Serenity\Serenity\bin\Debug\Serenity.exe.config
+C:\Users\Jessica\source\repos\Serenity\Serenity\bin\Debug\Serenity.exe
+C:\Users\Jessica\source\repos\Serenity\Serenity\bin\Debug\Serenity.pdb
+C:\Users\Jessica\source\repos\Serenity\Serenity\bin\Debug\Serenity.xml
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.exe
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.xml
+C:\Users\Jessica\source\repos\Serenity\Serenity\obj\Debug\Serenity.pdb
